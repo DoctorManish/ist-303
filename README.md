@@ -8,8 +8,6 @@ The assignment required implementing:
 - Two subclasses: `SavingsAccount` and `CheckingAccount`
 - Rules for deposits, withdrawals, overdrafts, and account age restrictions
 
-The instructor will run the provided **test_pe3.py** file against my **pe3.py** to verify correctness.
-
 ---
 
 ## Test Results
@@ -17,9 +15,7 @@ The instructor will run the provided **test_pe3.py** file against my **pe3.py** 
 All tests were run locally using `pytest`, and the expected results were achieved:
 
 - **25 passed**
-- **2 xfailed** (expected failures included in the test suite)
-
-This confirms that the implementation meets the assignment requirements.
+- **2 xfailed** - expected failures included in the test suite
 
 ---
 
